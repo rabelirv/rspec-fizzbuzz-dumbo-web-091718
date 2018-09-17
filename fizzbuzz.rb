@@ -7,6 +7,6 @@ def fizzbuzz(fizz_3)
   return "Buzz"
   elsif fizz_15 = 15/3 || fizz_15 = 15/5
   return "FizzBuzz"
-  elsif fizz_4 = 4/5 || 4/3 
+  elsif fizz_4 = 4/5 || 4/3 = fizz 
 end
 end
