@@ -1,6 +1,6 @@
 # Don't forget! This file needs to be 'required' in its spec file
 # See README.md for instructions on how to do this
-def fizzbuzz(fizz_3,fizz_5)
+def fizzbuzz(fizz_3)
   fizz_3 = "Fizz"
   3/3 == fizz_3
   fizz_5 = "Buzz"
