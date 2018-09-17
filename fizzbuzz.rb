@@ -5,8 +5,9 @@ def fizzbuzz(fizz_3)
   return "Fizz"
   elsif fizz_5 = 5/5
   return "Buzz"
-  elsif fizz_15 = 15/3 || fizz_15 = 15/5
+  elsif fizz_15 = 15/3 || 15/5 = fizz_15
   return "FizzBuzz"
-  elsif fizz_4 = 4/5 || 4/3 = fizz 
+  elsif fizz_4 = 4/5 || 4/3 = fizz_4 
+  return nil 
 end
 end
